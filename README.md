@@ -1,24 +1,14 @@
 # Fern
 
-TODO: Write a gem description
-
 ## Installation
 
-Add this line to your application's Gemfile:
+first.
+need install ImageMagic
+if use Mac OS X. then  
 
-    gem 'fern'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install fern
+    brew install imagemagick
 
 ## Usage
-
-TODO: Write usage instructions here
 
 ## Contributing
 
