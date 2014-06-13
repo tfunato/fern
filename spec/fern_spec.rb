@@ -6,5 +6,6 @@ describe Fern do
   end
 
   #Fern.make_fern
-  Koch.make_koch
+  #Koch.make_koch
+  Gasket.make_gasket  
 end
