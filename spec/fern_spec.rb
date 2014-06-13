@@ -5,5 +5,6 @@ describe Fern do
     expect(Fern::VERSION).not_to be_empty
   end
 
-  Fern.make_fern
+  #Fern.make_fern
+  Koch.make_koch
 end
